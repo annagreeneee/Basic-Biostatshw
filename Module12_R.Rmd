@@ -1,0 +1,24 @@
+---
+title: "Biostatistics Homework"
+author: "Anna Greene"
+date: "4/6/2022"
+output: html_document
+---
+
+Textbook Problems: 10.2, 10.3
+
+#### 10.2
+(a) Treatment group `r 40/368*100`%
+
+    Control group `r 26/370*100`%
+(b) There is about a 4% difference between treatment and control groups.
+(c) It appears that the treatment worked because the difference between groups is larger than it would be expected from chance.
+
+#### 10.3
+(a) Treatment group `r 56/128*100`% 
+    
+    Control group `r 54/124*100`%
+(b) There is about a 0.2% difference between treatment and control groups.
+(c) It appears that the treatment did not work because the difference between groups is smaller than it would be expected from chance.
+
+
